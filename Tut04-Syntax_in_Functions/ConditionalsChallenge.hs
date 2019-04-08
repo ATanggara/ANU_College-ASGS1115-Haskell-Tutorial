@@ -1,6 +1,6 @@
 -- rewrite these with case keywords:
 
-topsecret :: (String s) => s -> s
+topsecret :: String -> String
 topsecret password = "Haskell is awesome!"
 topsecret s = "Incorrect password"
     where password = "1234"

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7cb70eb4-b5fe-4750-b121-9c6b65d5931c" name="Default Changelist" comment="" />
+    <list default="true" id="7cb70eb4-b5fe-4750-b121-9c6b65d5931c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tut05-Recursion/Fibonacci.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tut05-Recursion/ListRecursion.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tut05-Recursion/Recursion.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tut06-Higher_Order_Functions/FuncIn.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tut06-Higher_Order_Functions/FuncOut.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tut04-Syntax_in_Functions/ConditionalsChallenge.hs" beforeDir="false" afterPath="$PROJECT_DIR$/Tut04-Syntax_in_Functions/ConditionalsChallenge.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tut04-Syntax_in_Functions/Tut04sols.hs" beforeDir="false" afterPath="$PROJECT_DIR$/Tut04-Syntax_in_Functions/Tut04sols.hs" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.stack-work/" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,77 +24,53 @@
     <session id="-1092107272">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.34" value="2" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.54" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="hs" value="5" />
+          <entry key="hs" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Haskell" value="5" />
+          <entry key="Haskell" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="hs" value="2112" />
+          <entry key="hs" value="4586" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Haskell" value="2112" />
+          <entry key="Haskell" value="4586" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/PatternMatching.hs">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tut06-Higher_Order_Functions/FuncIn.hs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/Guards.hs">
+        <entry file="file://$PROJECT_DIR$/Tut05-Recursion/ListRecursion.hs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/FunctionConditionals.hs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/Tut04sols.hs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/ConditionalsChallenge.hs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="323">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -100,6 +86,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
   </component>
   <component name="IdeDocumentHistory">
@@ -108,17 +95,24 @@
         <option value="$PROJECT_DIR$/Tut04-Syntax_in_Functions/Guards.hs" />
         <option value="$PROJECT_DIR$/Tut04-Syntax_in_Functions/PatternMatching.hs" />
         <option value="$PROJECT_DIR$/Tut04-Syntax_in_Functions/FunctionConditionals.hs" />
+        <option value="$PROJECT_DIR$/Tut04-Syntax_in_Functions/Test.hs" />
         <option value="$PROJECT_DIR$/Tut04-Syntax_in_Functions/Tut04sols.hs" />
         <option value="$PROJECT_DIR$/Tut04-Syntax_in_Functions/ConditionalsChallenge.hs" />
+        <option value="$PROJECT_DIR$/Tut05-Recursion/Fibonacci.hs" />
+        <option value="$PROJECT_DIR$/Tut05-Recursion/Recursion.hs" />
+        <option value="$PROJECT_DIR$/Tut05-Recursion/ListRecursion.hs" />
+        <option value="$PROJECT_DIR$/Tut06-Higher_Order_Functions/HigherOrderFunctions.hs" />
+        <option value="$PROJECT_DIR$/Tut06-Higher_Order_Functions/FuncIn.hs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="112" />
+    <option name="x" value="134" />
     <option name="y" value="31" />
     <option name="width" value="1096" />
     <option name="height" value="685" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,6 +132,16 @@
               <item name="ASGS1115-Tutorials" type="462c0819:PsiDirectoryNode" />
               <item name="Tut04-Syntax_in_Functions" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ASGS1115-Tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASGS1115-Tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="Tut05-Recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASGS1115-Tutorials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASGS1115-Tutorials" type="462c0819:PsiDirectoryNode" />
+              <item name="Tut06-Higher_Order_Functions" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,7 +149,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552966291633" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554041352043" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -179,10 +186,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="112" y="31" width="1096" height="685" extended-state="0" />
+    <frame x="134" y="31" width="1096" height="685" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2590133" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2779886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -214,24 +221,45 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/ConditionalsChallenge.hs">
+    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/Test.hs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/FunctionConditionals.hs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/PatternMatching.hs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/Tut04sols.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/ConditionalsChallenge.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut05-Recursion/Recursion.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut05-Recursion/Fibonacci.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -242,12 +270,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/Tut04sols.hs">
+    <entry file="file://$PROJECT_DIR$/Tut04-Syntax_in_Functions/FunctionConditionals.hs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="102">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tut05-Recursion/ListRecursion.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut06-Higher_Order_Functions/FuncOut.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tut06-Higher_Order_Functions/FuncIn.hs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ASGS1115-Tutorials</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
